@@ -1,7 +1,4 @@
-### Task 1.6
-# Write a Python program to print all unique values of all dictionaries in a list.
-
-
+### Task 1.6  Write a Python program to print all unique values of all dictionaries in a list.
 list_dict = [{"V": "S001", "X": "S001"}, {"V": "S002"}, {"VI": "S001"}, {"VI": "S005"}, {"VII": "S005"}, {"V": "S009"},
              {"VIII": "S007"}]
 my_list = []

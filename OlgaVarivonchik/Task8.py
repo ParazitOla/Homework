@@ -1,4 +1,4 @@
-### Task 1.6
+### Task 1.8
 # Write a program which makes a pretty print of a part of the multiplication table.
 
 a = 2
@@ -7,7 +7,7 @@ c = 3
 d = 7
 my_list = [a, b, c, d]
 my_list.sort()
-
+print('    ', end='')
 for x in my_list:
     print(f'{x}\t', end='')
 print('')
