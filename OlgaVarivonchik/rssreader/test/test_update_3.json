@@ -1,0 +1,14 @@
+{
+    "https://feeds.skynews.com/feeds/rss/world.xml": {
+        "feed_title": "World News - Breaking international news and headlines | Sky News",
+        "news": {
+            "http://news.sky.com/story/climate-change-promises-fall-short-and-risk-destabilised-world-and-endless-suffering-un-says-12444976": {
+                "title": "Climate change promises fall short and risk 'destabilised world and endless suffering', UN says",
+                "link": "http://news.sky.com/story/climate-change-promises-fall-short-and-risk-destabilised-world-and-endless-suffering-un-says-12444976",
+                "pubDate": "2021-10-26T12:23:00+01:00",
+                "description": "The latest global climate promises to cut emissions are not yet enough to stay under the dangerous threshold of global heating that would trigger severe climate breakdown, UN scientists have warned.",
+                "linkimage": "https://e3.365dm.com/21/06/70x70/skynews-coal-energy-climate-change_5432579.jpg?20210630143005"
+            }
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "https://feeds.skynews.com/feeds/rss/world.xml": {
+        "feed_title": "World News - Breaking international news and headlines | Sky News",
+        "news": {
+            "http://news.sky.com/story/climate-change-promises-fall-short-and-risk-destabilised-world-and-endless-suffering-un-says-12444976": {
+                "title": "Climate change promises fall short and risk 'destabilised world and endless suffering', UN says",
+                "link": "http://news.sky.com/story/climate-change-promises-fall-short-and-risk-destabilised-world-and-endless-suffering-un-says-12444976",
+                "pubDate": "2021-10-26T12:23:00+01:00",
+                "description": "The latest global climate promises to cut emissions are not yet enough to stay under the dangerous threshold of global heating that would trigger severe climate breakdown, UN scientists have warned.",
+                "linkimage": "https://e3.365dm.com/21/06/70x70/skynews-coal-energy-climate-change_5432579.jpg?20210630143005"
+            },
+            "http://news.sky.com/story/no-new-pledges-china-announces-how-it-will-meet-peaking-carbon-emissions-by-2030-12445002": {
+                "title": "'No new pledges': China  announces how it will meet peaking carbon emissions by 2030",
+                "link": "http://news.sky.com/story/no-new-pledges-china-announces-how-it-will-meet-peaking-carbon-emissions-by-2030-12445002",
+                "pubDate": "2021-10-26T12:55:00+01:00",
+                "description": "China has announced how it will meet its target of peaking carbon emissions by 2030, according to a new document published by the country's cabinet.&#160;",
+                "linkimage": "https://e3.365dm.com/21/10/70x70/skynews-coal-coal-fired-power-plant_5551926.jpg?20211026155417"
+            },
+            "http://news.sky.com/story/t20-cricket-world-cup-kashmir-anti-terror-investigation-into-students-celebrating-indias-loss-to-pakistan-12445090": {
+                "title": "Kashmir anti-terror investigation into students celebrating India's loss to Pakistan in T20 cricket game",
+                "link": "http://news.sky.com/story/t20-cricket-world-cup-kashmir-anti-terror-investigation-into-students-celebrating-indias-loss-to-pakistan-12445090",
+                "pubDate": "2021-10-26T14:29:00+01:00",
+                "description": "Police in Indian-controlled Kashmir have launched an anti-terror investigation into college students and staff celebrating India's loss to arch-rivals Pakistan in a T20 World Cup cricket game, officials say.",
+                "linkimage": "https://e3.365dm.com/21/10/70x70/skynews-kashmir-cricket-pakistan_5560340.jpg?20211026150413"
+            }
+        }
+    }
+}
