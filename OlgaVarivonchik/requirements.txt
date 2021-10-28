@@ -1,0 +1,8 @@
+argparse
+bs4
+datetime
+requests
+python-dateutil
+fpdf
+lxml
+colorama
